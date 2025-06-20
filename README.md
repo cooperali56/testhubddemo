@@ -14,13 +14,12 @@ TestHub是一个功能完善的测试用例管理平台，帮助测试团队高�
 
 ### 测试用例管理
 
-![Logo](./images/logo.png)
+![Logo](./images/testcase.png)
 
 
 ### AI测试
 
-![Logo](./images/logo.png)
-
+![Logo](./images/aitest.png)
 
 
 
